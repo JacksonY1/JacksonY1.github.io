@@ -20,11 +20,9 @@ author: Ye, Longjie (叶龙杰)
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: file:"./jason.pdf"
+  Lab: "https://weng-poleis.com"
+  Blog: file:"./jason.md"
 
 ################
 # --- Logo --- #
