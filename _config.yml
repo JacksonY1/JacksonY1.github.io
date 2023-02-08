@@ -20,9 +20,9 @@ author: Ye, Longjie (叶龙杰)
 ###############################################
 
 navbar-links:
-  CV: "/jason.pdf"
+  CV: "jason.pdf"
   Lab: "https://weng-poleis.com"
-  Blog: "/jason.md"
+  Blog: "jason.md"
 
 ################
 # --- Logo --- #
